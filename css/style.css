@@ -8,9 +8,10 @@ html {
  /* The alert message box */
  .alert {
   padding: 20px;
-  background-color: #f44336; /* Red */
-  color: white;
+  background-color: rgb(248, 58, 58); /* Red */
+  color:white;
   margin-bottom: 15px;
+  text-shadow: 2px 2px 5px yellow;
 }
 
 /* The close button */
